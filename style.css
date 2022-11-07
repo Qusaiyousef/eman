@@ -1,0 +1,19 @@
+.father{
+    display: flex;
+   flex-direction: column;
+}
+.ch1 {
+    width: 500px;
+    height: 100px;
+    background-color: blue;
+}
+.ch2{
+    width: 500px;
+    height: 100px;
+    background-color: red;
+}
+.ch3{
+    width: 500px;
+    height: 100px;
+    background-color: green;
+}
